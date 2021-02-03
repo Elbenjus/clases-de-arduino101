@@ -1,0 +1,4 @@
+binario explicacion:
+los numeros que usas son potencias de 2 ordenadas de mayor a menor izq der y los que usaras los marcas con 1 y los demas 0
+TAREA:
+leer pdf de arduino

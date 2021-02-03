@@ -1,0 +1,47 @@
+Agregar cambios
+
+git add -A
+Comentar cambios
+
+git commit -m ""
+
+
+Crear las dos de una
+
+git commit -am "mensaje"
+
+
+Subir
+
+git push
+
+
+Subir a la principal
+
+maestro de origen de git push
+
+
+Bajar Cambios
+
+git pull
+
+
+Stashear cambios
+
+git alijo
+Expulsar cambios stasheados
+
+git stash pop
+
+
+ir a una rama
+
+pago de rama de git
+
+
+Actualizar la rama / nuevo-mundo
+
+desarrollo de git checkout
+git pull
+git checkout nuevo-mundo
+git merge desarrollar
